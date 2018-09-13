@@ -1,0 +1,143 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name ="tv1">
+        <item name ="android:text">Card Activity</item>
+        <item name ="android:background">#787fff</item>
+        <item name ="android:fontFamily">casual</item>
+        <item name= "android:layout_width">match_parent</item>
+        <item name ="android:layout_height">22dp</item>
+        <item name ="android:layout_alignParentStart">true</item>
+        <item name ="android:layout_alignParentTop">true</item>
+    </style>
+
+    <style name ="tv2">
+        <item name ="android:text">Clark Kent</item>\
+        <item name ="android:textStyle">bold</item>
+        <item name ="android:fontFamily">casual</item>
+        <item name ="android:layout_width">wrap_content</item>
+        <item name ="android:layout_height">wrap_content</item>
+        <item name ="android:layout_alignParentStart">true</item>
+        <item name ="android:layout_alignParentTop">true</item>
+        <item name ="android:layout_marginTop">37dp</item>
+
+
+
+    </style>
+
+    <style name ="tv3">
+        <item name ="android:text">Reporter</item>
+        <item name ="android:fontFamily">casual</item>
+        <item name ="android:layout_width">95dp</item>
+        <item name ="android:layout_height">30dp</item>
+        <item name ="android:layout_alignParentStart">true</item>
+        <item name ="android:layout_below">@+id/textView19</item>
+
+
+    </style>
+    <style name="tv4">
+        <item name ="android:layout_width">280dp</item>
+        <item name ="android:layout_height">50dp</item>
+        <item name= "android:text">Very Quiet bespectacled reporter at the DailyPlanet. Clumsy Fellow, but well built and locks strikingly familiar. Wonder which celebrity he looks like.</item>
+        <item name= "android:layout_alignParentStart">true</item>
+         <item name= "android:layout_below">@+id/textView16</item>
+        <item name= "android:layout_marginTop">1dp</item>
+    </style>
+
+    <style name ="imv1">
+        <item name ="android:layout_width">66dp</item>
+        <item name ="android:layout_height">115dp</item>
+        <item name ="android:layout_alignParentEnd">true</item>
+        <item name ="android:layout_below">@+id/textView15</item>
+    </style>
+
+    <style name ="tv5">
+        <item name ="android:text">Bruce Wayne</item>\
+        <item name ="android:textStyle">bold</item>
+        <item name ="android:fontFamily">casual</item>
+        <item name ="android:layout_width">wrap_content</item>
+        <item name ="android:layout_height">wrap_content</item>
+        <item name ="android:layout_alignParentStart">true</item>
+        <item name =" android:layout_alignParentTop">true</item>
+        <item name =" android:layout_marginTop">175dp</item>
+        <item name ="android:layout_marginBottom">-205dp</item>
+        <item name ="android:layout_alignTop">@+id/imageView6</item>
+
+    </style>
+
+    <style name ="tv6">
+        <item name ="android:text">Billionare</item>
+        <item name ="android:fontFamily">casual</item>
+        <item name ="android:layout_width">95dp</item>
+        <item name ="android:layout_height">30dp</item>
+        <item name ="android:layout_alignParentStart">true</item>
+    <item name ="android:layout_below">@+id/textView18</item>
+    <item name ="android:layout_marginTop">205dp</item>
+    </style>
+    <style name="tv7">
+        <item name ="android:layout_width">283dp</item>
+        <item name ="android:layout_height">wrap_content</item>
+        <item name= "android:text">Incredibly smart billionare industrialist and notorious playboy. Also very reclusive. Almost certainly the Batman. (Batman's Gadgets mus cost)</item>
+        <item name= "android:layout_alignParentStart">true</item>
+        <item name= "android:layout_alignParentTop">true</item>
+        <item name= "android:layout_marginTop">211dp</item>
+
+         <item name= "android:layout_below">@+id/textView4</item>
+    </style>
+    <style name ="imv2">
+        <item name ="android:layout_width">69dp</item>
+        <item name ="android:layout_height">123dp</item>
+        <item name ="android:layout_alignParentEnd">true</item>
+        <item name ="android:layout_alignParentTop">true</item>
+        <item name ="android:layout_marginTop">155dp</item>
+
+    </style>
+
+    <style name ="tv8">
+        <item name ="android:text">Barack Obama</item>\
+        <item name ="android:textStyle">bold</item>
+        <item name ="android:fontFamily">casual</item>
+        <item name ="android:layout_width">126dp</item>
+        <item name ="android:layout_height">26dp</item>
+        <item name ="android:layout_alignParentBottom">true</item>
+        <item name ="android:layout_alignParentStart">true</item>
+        <item name ="android:layout_marginBottom">248dp</item>
+        <item name ="android:layout_above">@+id/textView25</item>
+    </style>
+
+    <style name ="tv9">
+        <item name ="android:text">President of The USA</item>
+        <item name ="android:fontFamily">casual</item>
+        <item name ="android:layout_width">160dp</item>
+        <item name ="android:layout_height">wrap_content</item>
+
+        <item name ="android:layout_alignParentBottom">true</item>
+        <item name ="android:layout_alignParentStart">true</item>
+        <item name ="android:layout_marginBottom">219dp</item>
+    </style>
+    <style name="tv10">
+        <item name ="android:layout_width">244dp</item>
+        <item name ="android:layout_height">96dp</item>
+        <item name= "android:text">44th President of the USA. Reciepient of the Nobel Peace prize (although no one is quite certain what exactly for) Suspected of being Black</item>
+        <item name= "android:layout_alignParentStart">true</item>
+        <item name= "android:layout_below">@+id/textView25</item>
+        <item name= "android:layout_marginTop">-219dp</item>
+        <item name ="android:fontFamily">casual</item>
+    </style>
+    <style name ="imv3">
+        <item name ="android:layout_width">109dp</item>
+        <item name ="android:layout_height">129dp</item>
+        <item name ="android:layout_alignParentBottom">true</item>
+        <item name ="android:layout_alignParentEnd">true</item>
+         <item name ="android:layout_marginBottom">167dp</item>
+    </style>
+
+
+</resources>

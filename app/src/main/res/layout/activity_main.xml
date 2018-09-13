@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView15"
+        style="@style/tv1" />
+
+    <TextView
+        android:id="@+id/textView16"
+        style="@style/tv3"
+         />
+
+    <TextView
+        android:id="@+id/textView19"
+        style="@style/tv2"
+       />
+
+    <TextView
+        android:id="@+id/textView18"
+        style="@style/tv5"
+         />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        style="@style/imv1"
+
+        app:srcCompat="@drawable/clarkkentsecretorigin" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        style="@style/imv2"
+
+        app:srcCompat="@drawable/brucewayne" />
+
+    <TextView
+        android:id="@+id/textView22"
+        style="@style/tv8" />
+
+    <TextView
+        android:id="@+id/textView25"
+        style="@style/tv9"
+
+        />
+
+    <TextView
+        android:id="@+id/textView26"
+        style="@style/tv10"
+        />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        style="@style/imv3"
+
+        app:srcCompat="@drawable/presbobama" />
+
+    <TextView
+        android:id="@+id/textView"
+        style="@style/tv4"
+       />
+
+    <TextView
+        android:id="@+id/textView4"
+        style="@style/tv7"
+         />
+
+
+    <TextView
+        android:id="@+id/textView17"
+        style="@style/tv6"
+         />
+
+
+</RelativeLayout>
